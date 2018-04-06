@@ -1,0 +1,77 @@
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [{"code":89,"message":"Invalid or expired token."}]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [{"code":89,"message":"Invalid or expired token."}]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [{"code":89,"message":"Invalid or expired token."}]ERROR: Retrieving user tweets -- [{"code":89,"message":"Invalid or expired token."}]LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Apr 01 00:23:21 +0000 2018
+Tweet content: I have four velvet Elvis paintings.
+------------------------
+Created on: Sun Apr 01 00:23:05 +0000 2018
+Tweet content: I collect vintage items.
+------------------------
+Created on: Sun Apr 01 00:22:24 +0000 2018
+Tweet content: I wish my boyfriend would hurry up and go get food.
+------------------------
+Created on: Sun Apr 01 00:22:08 +0000 2018
+Tweet content: I'm hungry.
+------------------------
+Created on: Sun Apr 01 00:21:34 +0000 2018
+Tweet content: I'm using Airbnb again for this trip because it was way cheaper than a hotel last time.
+------------------------
+Created on: Sun Apr 01 00:20:58 +0000 2018
+Tweet content: I love traveling.
+------------------------
+Created on: Sun Apr 01 00:20:12 +0000 2018
+Tweet content: It's hard to find time to do anything between work and school.
+------------------------
+Created on: Sun Apr 01 00:19:40 +0000 2018
+Tweet content: I'm excited to go to St. Louis in May to see my favorite band.
+------------------------
+Created on: Sun Apr 01 00:18:53 +0000 2018
+Tweet content: I can't wait to get my next tattoo.
+------------------------
+Created on: Sun Apr 01 00:18:34 +0000 2018
+Tweet content: I can't stand Donald Trump.
+------------------------
+Created on: Sun Apr 01 00:17:53 +0000 2018
+Tweet content: He climbed Echo cliff and jumped off.
+------------------------
+Created on: Sun Apr 01 00:17:39 +0000 2018
+Tweet content: My dog went swimming for the first time today.
+------------------------
+Created on: Sun Apr 01 00:17:13 +0000 2018
+Tweet content: I have purple hair.
+------------------------
+Created on: Sun Apr 01 00:17:00 +0000 2018
+Tweet content: I just finished the Frankenstein Chronicles.
+------------------------
+Created on: Sun Apr 01 00:16:37 +0000 2018
+Tweet content: What's your favorite Netflix show?
+------------------------
+Created on: Sun Apr 01 00:16:25 +0000 2018
+Tweet content: I'm watching Supernatural and doing homework.
+------------------------
+Created on: Sun Apr 01 00:16:10 +0000 2018
+Tweet content: I'm not feeling well today.
+------------------------
+Created on: Sun Apr 01 00:15:43 +0000 2018
+Tweet content: My wiener dog's name is Herman.
+------------------------
+Created on: Sun Apr 01 00:15:31 +0000 2018
+Tweet content: I have a black cat.
+------------------------
+Created on: Sun Apr 01 00:15:17 +0000 2018
+Tweet content: I'm not a fan of this platform.
+------------------------
+
